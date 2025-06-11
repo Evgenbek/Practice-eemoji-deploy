@@ -1,0 +1,12 @@
+.emoji {
+  position: relative;
+
+  width: 100px;
+  height: 100px;
+
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
